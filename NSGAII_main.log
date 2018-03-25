@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="x-windows-874" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-03-25T11:24:42</date>
+  <millis>1521951882369</millis>
+  <sequence>0</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>jmetal.metaheuristics.nsgaII.NSGAII_main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Total execution time: 694ms</message>
+</record>
+<record>
+  <date>2018-03-25T11:24:42</date>
+  <millis>1521951882495</millis>
+  <sequence>1</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>jmetal.metaheuristics.nsgaII.NSGAII_main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Variables values have been writen to file VAR</message>
+</record>
+<record>
+  <date>2018-03-25T11:24:42</date>
+  <millis>1521951882530</millis>
+  <sequence>2</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>jmetal.metaheuristics.nsgaII.NSGAII_main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Objectives values have been writen to file FUN</message>
+</record>
+</log>
